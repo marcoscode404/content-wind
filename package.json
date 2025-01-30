@@ -8,7 +8,12 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxt/ui": "^2.21.0",
     "content-wind": "latest",
     "nuxt": "latest"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.9.0",
+    "pinia": "^2.3.1"
   }
 }
